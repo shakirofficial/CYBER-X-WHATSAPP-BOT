@@ -12,19 +12,19 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;VV0R1YRA#iDr_R_ML7deG1iOIGUA3FQ-_Fwy6j1hMHY5GRNomrHo",
+            "description": "cyber-x@;;;9AEFAR5Y#Fbn98Rjs5spyXaV1vmWJGdtFIyfknwj2TZ8_Nz3PAHw",
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;9AEFAR5Y#Fbn98Rjs5spyXaV1vmWJGdtFIyfknwj2TZ8_Nz3PAHw"
         },
         "HEROKU_API_KEY": {
             "description": "e2ccb121-692d-4fb5-9478-4055c91c8cfb",
             "required": true,
-            "value": ""
+            "value": "e2ccb121-692d-4fb5-9478-4055c91c8cfb"
         },
         "HEROKU_APP_NAME": {
             "description": "shakirofficial1",
             "required": true,
-            "value": ""
+            "value": "shakirofficial1"
         },
         "WORK_TYPE": {
             "description": "public ",
